@@ -3,10 +3,9 @@
 
 - 🔭 Atualmente estou no último ano do curso de Engenharia de Computação na UFMS.
 - 🌱 Estou aprendendo Docker e a trabalhar com dados financeiros em Python.
-- 💬 Pergunte-me sobre ...
-- 📫 Como chegar até mim: ...
+- 📫 Como chegar até mim: santosunior@gmail.com ou Linkedin abaixo.
 - 🤸‍♂️ Estilo de vida: Comer saudável, meditar e praticar calistenia.
-- ⚡ Recordes pessoais: 60 flexões em 1 minuto e 22 barras completas seguidas.
+- 🥇 Recordes pessoais: 60 flexões em 1 minuto e 22 barras completas seguidas.
 
 <div align="center">
   <a href="https://github.com/ernestojr-7">
