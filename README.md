@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ernesto Ferreira
 
 
-- 🔭 Atualmente estou no último ano do curso de Engenharia de Computação na UFMS.
+- 🔭 Atualmente estou no último semestre do curso de Engenharia de Computação na UFMS.
 - 🌱 Estou aprendendo Docker e a trabalhar com dados financeiros em Python.
 - 📫 Como chegar até mim: santosunior@gmail.com ou Linkedin abaixo.
 - 🤸‍♂️ Estilo de vida: Comer saudável, meditar e praticar calistenia.
