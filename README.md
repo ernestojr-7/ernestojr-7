@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Ernesto Ferreira
 
 
-- 🔭 Atualmente estou no último semestre do curso de Engenharia de Computação na UFMS.
-- 🌱 Estou aprendendo Docker e a trabalhar com dados financeiros em Python.
+- 🔭 Formado em Engenharia de Computação pela UFMS.
+- 🌱 Estou me desenvolvendo em Django, Python e Deep Learning.
 - 📫 Como chegar até mim: santosunior@gmail.com ou Linkedin abaixo.
 - 🤸‍♂️ Estilo de vida: Comer saudável, meditar e praticar calistenia.
 - 🥇 Recordes pessoais: 60 flexões em 1 minuto e 22 barras completas seguidas.
